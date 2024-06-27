@@ -1,6 +1,6 @@
 
 //Vivek Samani 22bec105
-//Special Assignment FPGA SD
+//Special Assignment FPGA based SD
 //Stepper motor controller
 
 module Stepper_Motor_Controller(clk_in, clk_out, reset, signal, led_indicaters, dir, frequency);

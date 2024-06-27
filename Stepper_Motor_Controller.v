@@ -88,13 +88,13 @@ end
 always@(*)
 begin
 	case(frequency)
-    6'b100000: req_clk = 10;
-    6'b110000: req_clk = 20;
-    6'b111000: req_clk = 50;
-    6'b111100: req_clk = 100;
-    6'b111111: req_clk = 200;
-    default  req_clk = 100; // default value when none of the conditions are met
+    		6'b100000: req_clk = 10;
+    		6'b110000: req_clk = 20;
+    		6'b111000: req_clk = 50;
+    		6'b111100: req_clk = 100;
+    		6'b111111: req_clk = 200;
+    		default  req_clk = 100; // default value when none of the conditions are met
 	endcase
 end
-
+	
 endmodule

@@ -1,4 +1,4 @@
-## Stepper-Motor-Controller-Using-Verilog-HDL
+# Stepper-Motor-Controller-Using-Verilog-HDL
 In this project an FPGA devkit was used as a Stepper Motor Controller
 
 # Hardware & Components
@@ -7,7 +7,7 @@ In this project an FPGA devkit was used as a Stepper Motor Controller
   
 - **Stepper Motor & Driver:** https://robu.in/product/28byj-48-stepper-motor-and-uln2003-stepper-motor-driver-good-quality/
 
-## Contact
+# Contact
 
 For any inquiries or permissions, please contact:
 

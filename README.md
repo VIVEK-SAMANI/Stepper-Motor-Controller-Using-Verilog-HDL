@@ -1,4 +1,4 @@
-# Stepper-Motor-Controller-Using-Verilog-HDL
+# Stepper-Motor-Controller-using-Verilog-HDL
 In this project an FPGA devkit was used as a Stepper Motor Controller
 
 # Hardware & Components
